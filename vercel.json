@@ -15,6 +15,9 @@
     "APP_ENV": "production",
     "APP_DEBUG": "false"
     
+  },
+    "build": {
+    "outputDirectory": "public/build"
   }
   
 }
